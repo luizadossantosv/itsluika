@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsluika
-- 👀 I’m interested in technology, marketing, and digital trends
+- 👀 I’m interested in technology and digital trends
 - 🌱 I’m currently learning Back-End JavaScript through DIO/Santander
 - 💞️ I’m looking to collaborate on projects that combine creativity with tech
 - 😄 Pronouns: She/Her
